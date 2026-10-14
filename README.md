@@ -1,6 +1,6 @@
 ### Joseph Crabtree
 
-Founder-engineer in Austin, TX. I spent ten years building [AMT (Additive Manufacturing Technologies)](https://amtechnologies.com), an industrial 3D-printing company: 900+ machines in 40+ countries, 50+ patents. In 2026 I started Thinking Humans, where I post-train and serve open-weight models on our own hardware, and I've been putting LLM agents in charge of real systems.
+Founder-engineer in Austin, TX. I spent ten years building [AMT (Additive Manufacturing Technologies)](https://amtechnologies.com), an industrial 3D-printing company: 900+ machines in 40+ countries, 50+ patents. In 2026 I started post-training and serving open-weight models on our own hardware, and I've been putting LLM agents in charge of real systems.
 
 **What I work on**
 
