@@ -1,6 +1,6 @@
 ### Joseph Crabtree
 
-Founder-engineer in Austin, TX. I founded and run an industrial 3D-printing company: 900+ machines in 40+ countries, 50+ patents. Since 2026 I've been post-training and serving open-weight models on my own hardware, and putting LLM agents in charge of real systems.
+Founder-engineer in Austin, TX. I founded and run an industrial 3D-printing company: 900+ machines in 40+ countries, 50+ patents. I've been post-training and serving open-weight models on my own hardware, and putting LLM agents in charge of real systems.
 
 **What I work on**
 
