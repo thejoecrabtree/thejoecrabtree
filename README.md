@@ -1,6 +1,6 @@
 ### Joseph Crabtree
 
-Founder-engineer in Austin, TX. I founded and run an industrial 3D-printing company: 900+ machines in 40+ countries, inventor on 21 granted patents across 17 families. I've been post-training and serving open-weight models on my own hardware, and putting LLM agents in charge of real systems.
+Founder-engineer in Austin, TX. I founded and run an industrial 3D-printing company: 900+ machines in 40+ countries, inventor on 21 granted patents. I've been post-training and serving open-weight models on my own hardware, and putting LLM agents in charge of real systems.
 
 **What I work on**
 
@@ -10,6 +10,8 @@ Founder-engineer in Austin, TX. I founded and run an industrial 3D-printing comp
 
 **Selected work**
 
+- [agent-framing-oversight](https://github.com/thejoecrabtree/agent-framing-oversight): a control evaluation on 156 real approval cards: can an agent's own wording lower the oversight its actions get? Plan, code, results and errata.
+- [approval-gated-agent](https://github.com/thinkinghumans/approval-gated-agent): a reference agent for back-office work that touches money: the model proposes, a deterministic policy decides, a person approves, and a hash-chained log records it. Runs offline, 64 tests.
 - [agent-failure-log](https://github.com/thejoecrabtree/agent-failure-log): real control failures from agents running physical hardware, and the patterns that held up.
 - [nemotron-moe-lora-checkpoint-fix](https://github.com/thejoecrabtree/nemotron-moe-lora-checkpoint-fix): a silent MoE checkpoint-loading bug that left every routed expert at random init during fine-tuning; root cause and fix, reported upstream as [NVIDIA-NeMo/Automodel#4357](https://github.com/NVIDIA-NeMo/Automodel/issues/4357).
 - [llm-eval-gate](https://github.com/thejoecrabtree/llm-eval-gate): a golden-set eval gate for model promotion, plus lm-eval-harness lessons.
