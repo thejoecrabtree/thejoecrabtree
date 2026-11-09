@@ -1,10 +1,10 @@
 ### Joseph Crabtree
 
-Founder-engineer in Austin, TX. I founded and run an industrial 3D-printing company: 900+ machines in 40+ countries, inventor on 21 granted patents. I've been post-training and serving open-weight models on my own hardware, and putting LLM agents in charge of real systems.
+Founder-engineer in Austin, TX. I founded and ran an industrial 3D-printing company (AMT): 900+ systems in 40+ countries, inventor on 21 granted patents. I've been post-training and serving open-weight models on my own hardware, and putting LLM agents in charge of real systems.
 
 **What I work on**
 
-- **Agents that act in the physical world, and how they fail.** A 15-agent Claude Code team runs a small 3D-printing toy business, Texas Toy Lab, under an authority matrix with recall windows and shadow mode. I log every control failure and the guardrail that fixed it.
+- **Agents that act in the physical world, and how they fail.** In 2026 about 15 agents, mostly Claude Code sessions, ran a small 3D-printing toy business, Texas Toy Lab, under an authority matrix with recall windows and shadow mode. I logged every control failure and the guardrail that fixed it.
 - **Post-training and serving.** A 4× NVIDIA DGX Spark lab on a 200G fabric: multi-node LoRA with FSDP2, vLLM with speculative decoding, a LiteLLM gateway.
 - **Evals and red-teaming.** Golden-set eval gates that block model promotion, and multi-agent LLM reviews of safety-critical machine software.
 
